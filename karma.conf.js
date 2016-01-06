@@ -11,9 +11,9 @@ module.exports = function(config) {
 
     // list of files / patterns to load in the browser
     files: [
-      'https://ajax.googleapis.com/ajax/libs/angularjs/1.3.3/angular.js',
-      'https://ajax.googleapis.com/ajax/libs/angularjs/1.3.3/angular-mocks.js',
-      'http://cdnjs.cloudflare.com/ajax/libs/lodash.js/2.4.1/lodash.js',
+      'https://ajax.googleapis.com/ajax/libs/angularjs/1.4.1/angular.js',
+      'https://ajax.googleapis.com/ajax/libs/angularjs/1.4.1/angular-mocks.js',
+      'http://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.9.3/lodash.js',
       'dist/*.min.js',
       'test/*.js'
     ],
